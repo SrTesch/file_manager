@@ -1,4 +1,3 @@
-# file_manager
 <h1>This is a File manager for *.txt* files!</h1>
 <p>Using encaded lists in C, is a simulation for a ram memory.</p>
 
